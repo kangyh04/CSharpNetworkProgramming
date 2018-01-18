@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_DelegateParameterThread", "mook_DelegateParameterThread\mook_DelegateParameterThread.csproj", "{A13EC148-A186-4280-9C8A-4B21A7BB9C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13EC148-A186-4280-9C8A-4B21A7BB9C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13EC148-A186-4280-9C8A-4B21A7BB9C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13EC148-A186-4280-9C8A-4B21A7BB9C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13EC148-A186-4280-9C8A-4B21A7BB9C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AAC2171-581A-4011-8FE5-51B9A02FA58C}
+	EndGlobalSection
+EndGlobal
