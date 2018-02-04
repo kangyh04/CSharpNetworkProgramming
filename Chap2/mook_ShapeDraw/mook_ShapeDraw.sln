@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_ShapeDraw", "mook_ShapeDraw\mook_ShapeDraw.csproj", "{0416626F-0CC4-4B64-B2C9-4E242F3EC172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0416626F-0CC4-4B64-B2C9-4E242F3EC172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0416626F-0CC4-4B64-B2C9-4E242F3EC172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0416626F-0CC4-4B64-B2C9-4E242F3EC172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0416626F-0CC4-4B64-B2C9-4E242F3EC172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5E6DC9-81B8-4AED-9E2D-655B7650A06B}
+	EndGlobalSection
+EndGlobal
