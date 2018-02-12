@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_GraphPaint", "mook_GraphPaint\mook_GraphPaint.csproj", "{DB875552-E884-4E1D-AA15-43FDFBF28D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mook_GraphCore", "mook_GraphCore\mook_GraphCore.csproj", "{A91A8715-57A4-4788-BC7B-7DF28C94FDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB875552-E884-4E1D-AA15-43FDFBF28D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB875552-E884-4E1D-AA15-43FDFBF28D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB875552-E884-4E1D-AA15-43FDFBF28D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB875552-E884-4E1D-AA15-43FDFBF28D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91A8715-57A4-4788-BC7B-7DF28C94FDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91A8715-57A4-4788-BC7B-7DF28C94FDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91A8715-57A4-4788-BC7B-7DF28C94FDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91A8715-57A4-4788-BC7B-7DF28C94FDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0CB8F8B-E09F-4B74-B406-1AB85E51ADE2}
+	EndGlobalSection
+EndGlobal
